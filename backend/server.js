@@ -10,7 +10,7 @@ app.use(cors());
 
 // Define a simple route
 app.get('/api/data', (req, res) => {
-    res.json({ message: 'Hello from the backend!' });
+    res.json({ message: 'Hello from the backend!!!!!!!.....!' });
 });
 
 // Start the server and listen on port 3001
